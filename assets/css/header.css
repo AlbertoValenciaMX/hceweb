@@ -1,7 +1,7 @@
 /* Base CSS */
 
 html {
-	font-family: 'Ubuntu', sans-serif;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .filtering {
@@ -86,7 +86,7 @@ a {
 }
 
 .navbar.navbar-expand-xl.nav_area.sticky.scroll-header {
-	background-color: #42a637;
+	background-color: #117533;
 	z-index: 999999;
 	box-shadow: 1px -5px 24px #776b6bcc;
 	padding: 17px 0px;
@@ -99,7 +99,7 @@ a {
 }
 
 .navbar.navbar-expand-xl.nav_area.sticky.scroll-header .main_menu li:hover a {
-	color: #F24259;
+	color: #117533;
 }
 
 .navbar.navbar-expand-xl.nav_area.sticky .logo-light {
@@ -130,31 +130,33 @@ a {
 .logo {
 	height: 41px;
 	padding: 7px 0px;
+	color: #117533;
 }
 
 .logo-light {
 	font-size: 22px;
 	font-weight: 700;
+	color: #117533;
 }
 
 .logo-light:hover {
 	text-decoration: none;
-	color: #111;
+	color: #117533;
 }
 
 .logo-dark {
 	font-size: 22px;
 	font-weight: 700;
-	color: #111;
+	color: #117533;
 }
 
 .logo-dark:hover {
 	text-decoration: none;
-	color: #111;
+	color: #117533;
 }
 
 .main_menu li a:hover {
-	color: #F24259;
+	color: #117533;
 }
 
 .main_menu li a {
@@ -163,7 +165,7 @@ a {
 }
 
 .main_menu .blk_btn {
-	background-color: #F24259;
+	background-color: #117533;
 	color: #fff;
 	margin-left: 13px;
 	border-radius: 50px;
@@ -176,6 +178,6 @@ a {
 }
 
 .navbar-nav.ml-auto.navbar-center.main_menu.onepage_nav li.active a {
-	color: #F24259;
+	color: #117533;
 }
 
